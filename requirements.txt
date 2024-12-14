@@ -1,7 +1,13 @@
 asgiref==3.8.1
+cssselect==1.2.0
+d==0.2.2
 dj-database-url==0.5.0
 Django==4.2.17
-gunicorn==20.1.0
-psycopg2==2.9.10
-sqlparse==0.5.2
 django-summernote==0.8.20.0
+gunicorn==20.1.0
+lxml==5.3.0
+Markdown==3.7
+psycopg2==2.9.10
+pyquery==2.0.1
+sqlparse==0.5.2
+whitenoise==5.3.0
